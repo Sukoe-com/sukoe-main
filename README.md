@@ -3,7 +3,7 @@ Main Repository for Sukoe.com
 
 This repository contain the main API for <a href="https://www.sukoe.com/">Sukoe</a> Website
 
-<a href="https://www.sukoe.com/en">Technology Solutions for the Pharmaceutical Sector</a>  
+<a href="https://www.sukoe.com">Technology Solutions for the Pharmaceutical Sector</a>  
 Tailor-Made Software  
 Artificial Intelligence  
 Technology Platform  
